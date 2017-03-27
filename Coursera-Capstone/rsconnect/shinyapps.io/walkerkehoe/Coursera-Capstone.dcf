@@ -1,0 +1,11 @@
+name: Coursera-Capstone
+title:
+account: walkerkehoe
+server: shinyapps.io
+appId: 167376
+bundleId: 764500
+url: https://walkerkehoe.shinyapps.io/Coursera-Capstone/
+when: 1490577533.66244
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: main.R|final/de_DE/de_DE.blogs.txt|final/de_DE/de_DE.news.txt|final/de_DE/de_DE.twitter.txt|final/en_US/en_US.blogs.txt|final/en_US/en_US.news.txt|final/en_US/en_US.twitter.txt|final/fi_FI/fi_FI.blogs.txt|final/fi_FI/fi_FI.news.txt|final/fi_FI/fi_FI.twitter.txt
